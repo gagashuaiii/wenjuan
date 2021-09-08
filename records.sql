@@ -1,0 +1,7 @@
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (1, '2279373403@qq.com', '127.0.0.1', 0, 0, 1, 1, 0, 0, '2021-9-7 19:04:30', '2021-9-7 19:04:30');
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (2, '121324432@qq.com', '127.0.0.1', 0, 0, 1, 1, 0, 0, '2021-9-8 08:19:00', '2021-9-8 08:19:00');
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (3, '2332442354@qq.com', '127.0.0.1', 0, 0, 0, 1, 1, 1, '2021-9-8 08:55:47', '2021-9-8 08:55:47');
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (4, '2333432@qq.com', '127.0.0.1', 0, 1, 0, 0, 0, 0, '2021-9-8 09:48:06', '2021-9-8 09:48:06');
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (5, '456778765@qq.com', '127.0.0.1', 1, 0, 0, 0, 0, 0, '2021-9-8 11:03:41', '2021-9-8 11:03:41');
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (6, '66676765@qq.com', '127.0.0.1', 1, 0, 0, 0, 0, 0, '2021-9-8 11:03:46', '2021-9-8 11:03:46');
+INSERT INTO `records` (`id`, `email`, `ip`, `q1`, `q21`, `q22`, `q23`, `q24`, `q25`, `created_at`, `updated_at`) VALUES (7, '64545346765@qq.com', '127.0.0.1', 0, 0, 0, 1, 1, 0, '2021-9-8 11:03:55', '2021-9-8 11:03:55');
